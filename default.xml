@@ -1316,4 +1316,6 @@
     changes to a custom manifest.  Please keep this marker here and
     refrain from making changes on or below it.
   -->
+  <!-- CLO additions -->
+  <include name="clo.xml" />
 </manifest>
